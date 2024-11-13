@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orbweaver
 - 👀 I’m interested in HPC, Data Science, Forensics and Ballistics
 - 🌱 I’m currently learning Data Science at EDx
-- 💞️ I’m looking to collaborate on Rust programming in relation to HPC and Machine learning
+- 💞️ I’m looking to collaborate on Rust or Python programming in relation to HPC and Machine learning
 - 📫 How to reach me: haven't figured that out yet
 
 <!---
